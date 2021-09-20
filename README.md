@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------
 
-### Hi there I am  Nagendra Singh👋
+<center>### Hi there I am  Nagendra Singh👋 </center>
 
 
 
