@@ -1,10 +1,11 @@
+👋 Hello World I'm Nagendra 
+  <a target="_blank" href="https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<p align="center">
-  <img align="center"  src="https://user-images.githubusercontent.com/76935781/133972627-87f3988b-eb23-4ba5-b834-04a1039f35f3.png">
-</p>
-<p align="center">
-  <h3 align="center">A passioante full stack web developer from India.</h3>  
-</p>
 
 ------------------------------------------------------------
 
@@ -19,10 +20,8 @@
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
  
   <br/>
-  
-  <a target="_blank" href="https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <h3> </h3>
+
   
   <br/>
   <br/>
