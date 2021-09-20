@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------
 
-<center>### Hi there I am  Nagendra Singh👋 </center>
+<h2 align="center">Hi there I am  Nagendra Singh👋 <h2/> 
 
 
 
