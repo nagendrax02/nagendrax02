@@ -12,9 +12,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on myglamm clone
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on applications from where I can get to learn something new
