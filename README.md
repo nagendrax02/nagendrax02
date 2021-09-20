@@ -18,5 +18,5 @@
 - 📫 Mail me  nagendrax02@gmail.com
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
 
-![Linkedin_symbol_transparent](https://user-images.githubusercontent.com/76935781/133971855-99d65dc2-4b9c-4b9a-8193-0c78e221fc96.png)
 
+[![image alt text](https://user-images.githubusercontent.com/76935781/133971855-99d65dc2-4b9c-4b9a-8193-0c78e221fc96.png)](https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/)
