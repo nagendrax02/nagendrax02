@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------
 <br/>
-Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years old. A fitness maniac Flexed Biceps: Light Skin Tone Flexed Biceps: Medium-Light Skin Tone Flexed Biceps: Medium Skin Tone 
+Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years old. A fitness maniac 💪🏼. A good video-game player 🎮 and Ronalod fan ⚽. 
 
 - 🔭 I’m currently working on myglamm clone
 - 🌱 I’m currently learning React JS
