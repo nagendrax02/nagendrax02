@@ -10,7 +10,7 @@
 
 <h3 align="center">Hi there I am  Nagendra Singh👋 <h3/> 
 
-
+<br/>
 
 - 🔭 I’m currently working on myglamm clone
 - 🌱 I’m currently learning React JS
@@ -19,7 +19,6 @@
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
 
   
-  <br/>
   <br/>
   <br/>
   <br/>
