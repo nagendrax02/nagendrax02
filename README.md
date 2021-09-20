@@ -11,13 +11,14 @@
 <h3 align="center">Hi there I am  Nagendra Singh👋 <h3/> 
 
 <br/>
+  <p>
 
 - 🔭 I’m currently working on myglamm clone
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on applications from where I can get to learn something new
 - 📫 Mail me  nagendrax02@gmail.com
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
-
+  </p>
   
   <br/>
   <br/>
