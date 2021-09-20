@@ -1,8 +1,8 @@
 <p align="center">
   <h3>A passioante full stack web developer from India.</h3>  
 </p>
-###
-------------------
+
+------------------------------------------------------------
 
 ### Hi there I am  Nagendra Singh👋
 
