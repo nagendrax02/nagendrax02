@@ -26,5 +26,5 @@ Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
  
   <br/>
-  <br/>  
+
 ![Nagendra GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendrax02&show_icons=true)
