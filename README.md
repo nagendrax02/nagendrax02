@@ -18,6 +18,11 @@
 - 📫 Mail me  nagendrax02@gmail.com
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
  
+  <br/>
+  
+  <a target="_blank" href="https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
   
   <br/>
   <br/>
