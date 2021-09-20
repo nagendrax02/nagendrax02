@@ -19,4 +19,5 @@
 - 📝 Wanna read my blogs  https://medium.com/@rawatnagendra98
 
 
-<img height="100px" width="100px" [![image alt text](https://user-images.githubusercontent.com/76935781/133971855-99d65dc2-4b9c-4b9a-8193-0c78e221fc96.png)](https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/) >
+
+![Nagendra GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendrax02&show_icons=true)
