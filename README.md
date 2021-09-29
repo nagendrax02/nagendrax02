@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------
 
-Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years old.  <br/>A fitness maniac 💪🏼 ||  A good video-game player 🎮 ||  Ronalod fan ⚽. 
+Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years old.  <br/>A fitness maniac 💪🏼 ||  A good video-game player 🎮 ||  Ronaldo fan ⚽. 
 
 
 
