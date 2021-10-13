@@ -37,5 +37,5 @@ Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> &nbsp;
-<code><img height="30" src="https://user-images.githubusercontent.com/76935781/137061730-1afeaf8a-1abf-4868-b09d-7ade0a5924c7.png"></code> &nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/76935781/137061730-1afeaf8a-1abf-4868-b09d-7ade0a5924c7.png"></code> &nbsp;
 
