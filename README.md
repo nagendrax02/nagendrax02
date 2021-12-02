@@ -1,5 +1,5 @@
  <h4> 👋 Hello World I'm Nagendra </h4> 
-  <a target="_blank" href="https://www.linkedin.com/in/nagendra-rawat-10b4a3b8/">
+  <a target="_blank" href="https://www.linkedin.com/in/nagendrax02/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/nagendrax02/">
