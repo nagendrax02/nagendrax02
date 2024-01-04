@@ -19,7 +19,7 @@ Hi, I'm Nagendra Singh. I am a Full Stack Web Developer from India. I'm 22 years
 
 
 
-- 🔭 I’m currently working on youtube clone
+- 🔭 I’m currently working on my own project where I am developing APIs for hotel data and working on user login functionality.
 - 🌱 I’m currently learning SWIFT for IOS application development
 - 👯 I’m looking to collaborate on applications from where I can get to learn something new
 - 📫 Mail me  nagendrax02@gmail.com
